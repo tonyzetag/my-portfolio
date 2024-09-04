@@ -1,0 +1,11 @@
+<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
+
+    <circle cx="77" cy="45" r="40" fill="svg to ico" />
+
+  <!-- Letra G -->
+  <text x="70" y="60" font-family="Sans-serif" font-size="50" fill="white" font-weight="bold">G</text>
+
+   <!-- Letra Z -->
+  <text x="50" y="60" font-family="Sans-serif" font-size="50" fill="white" font-weight="bold">Z</text>
+
+</svg>

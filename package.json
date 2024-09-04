@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "deploy": "vercel --prod"
+    "deploy": "vercel --prod --yes --token=$VERCEL_TOKEN"
   },
   "dependencies": {
     "react": "^18",
